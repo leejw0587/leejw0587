@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">
-  🇰🇷 Student
+  I'm a 🇰🇷 Student
 </h3>
 
 - 📫 E-mail **leejw0587@gmail.com**
-- 📫 Discord **xDxD#9999**
+- 📫 Discord **leejw0587**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,7 +12,7 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="jxwox__"
+      alt="lxwnure"
       height="30"
       width="40"
   /></a>
