@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">
-  I am a high school student who is dreaming of becoming a developer.
+  🇰🇷 Student
 </h3>
 
 - 📫 E-mail **leejw0587@gmail.com**
