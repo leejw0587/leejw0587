@@ -91,15 +91,8 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=leejw0587"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=leejw0587&repo=baekjoon"
     alt="leejw0587"
   />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=leejw0587&"
-    alt="leejw0587"
-  />
-</p>
