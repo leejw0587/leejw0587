@@ -92,7 +92,7 @@
   <p>
     &nbsp;<img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=leejw0587&repo=baekjoon&show_owner"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=leejw0587&repo=baekjoon&show_owner=true"
       alt="leejw0587"
     />
   </p>
