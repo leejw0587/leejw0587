@@ -88,10 +88,10 @@
 
 </p>
 
-<p>
+<p href="https://github.com/leejw0587/baekjoon">
   &nbsp;<img
     align="center"
-    src="[(https://github-readme-stats.vercel.app/api/pin/?username=leejw0587&repo=baekjoon)](https://github.com/leejw0587/baekjoon)"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=leejw0587&repo=baekjoon"
     alt="leejw0587"
   />
 </p>
