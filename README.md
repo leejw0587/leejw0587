@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">
   I'm a 🇰🇷 university student.
-  \nMajor in Computer Engineering
+  <br>Major in Computer Engineering
 </h3>
 
 - 📫 E-mail **leejw0587@gmail.com**
