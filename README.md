@@ -82,9 +82,10 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=leejw0587&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leejw0587"
     alt="leejw0587"
   />
+
 </p>
 
 <p>
