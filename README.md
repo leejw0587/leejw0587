@@ -76,7 +76,7 @@
 
 </p>
 
-<a href="https://github.com/leejw0587/baekjoon">
+<a href="https://github.com/leejw0587/algorithm">
   <p>
     &nbsp;<img
       align="center"
