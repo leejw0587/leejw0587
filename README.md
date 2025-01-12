@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">
-  I am a university student studying in South Korea.<br>
-  Majoring in Computer Science and Engineering
+  University Student majoring in Computer Science and Engineering.
 </h3>
 
 - 📫 E-mail **leejw0587@gmail.com**
