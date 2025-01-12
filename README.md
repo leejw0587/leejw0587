@@ -29,19 +29,8 @@
 
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=leejw0587&layout=compact"
     alt="leejw0587"
   />
-
 </p>
-
-<a href="https://github.com/leejw0587/algorithm">
-  <p>
-    &nbsp;<img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=leejw0587&repo=baekjoon&show_owner=true"
-      alt="leejw0587"
-    />
-  </p>
-</a>
