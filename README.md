@@ -13,8 +13,8 @@
 <h3 align="center">Software and Environment</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,ae,ps,pr,github" />
-    <img src="https://skillicons.dev/icons?i=windows,apple" />
+    <img src="https://skillicons.dev/icons?i=ae,pr,ps,discord,github"/><br>
+    <img src="https://skillicons.dev/icons?i=windows,apple"/>
   </a>
 </p>
 
