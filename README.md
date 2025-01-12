@@ -12,15 +12,18 @@
 
 <h3 align="center">Software and Environment</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,pr,ps,discord,github"/><br>
-    <img src="https://skillicons.dev/icons?i=windows,apple"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=ae,pr,ps,discord,github"/><br>
+  <img src="https://skillicons.dev/icons?i=windows,apple"/>
 </p>
 
 <h3 align="center">IDE</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio"/>
+</p>
+
+<h3 align="center">Languages & Skills</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,py,c,html,css"/>
 </p>
 
 
